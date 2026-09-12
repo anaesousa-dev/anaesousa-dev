@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:E9D5FF&height=220&section=header&text=ANA%20ELIZA&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descFontSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Banner Ana Eliza" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=60&descSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Banner Ana Sousa" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Eliza+%F0%9F%92%9C;%3E_Desenvolvedora+de+Software+em+forma%C3%A7%C3%A3o;%3E_Javascript+%2B+React;%3E_Desenvolvimento+Web+%26+Mobile;%3E_Sempre+aprendendo+e+construindo+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<h2>💜 Software Developer em formação</h2>
+
+<p>
+  JavaScript • React.js • React Native • HTML • CSS • APIs REST
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/💜%20STATUS-LEARNING%20%26%20BUILDING-8B5CF6?style=for-the-badge&labelColor=1F1633" />
-<img src="https://img.shields.io/badge/✨%20FOCUS-WEB%20%26%20MOBILE-A78BFA?style=for-the-badge&labelColor=1F1633" />
-<img src="https://img.shields.io/badge/💻%20JAVASCRIPT-REACT-C4B5FD?style=for-the-badge&labelColor=1F1633" />
+<img src="https://img.shields.io/badge/💜%20STATUS-LEARNING%20%26%20BUILDING-8B5CF6?style=for-the-badge&labelColor=211936" />
+<img src="https://img.shields.io/badge/✨%20FOCUS-WEB%20%26%20MOBILE-A78BFA?style=for-the-badge&labelColor=211936" />
+<img src="https://img.shields.io/badge/💻%20JAVASCRIPT-REACT-C4B5FD?style=for-the-badge&labelColor=211936" />
 
 </div>
 
@@ -20,7 +22,7 @@
 
 ## 💜 Sobre mim
 
-Sou **Desenvolvedora de Software em formação**, graduanda em Tecnologia da Informação pela **UNIVESP** e concluindo o **Técnico em Informática pelo Senac São Paulo**.
+Sou **Desenvolvedora de Software em formação**, graduanda em **Tecnologia da Informação pela UNIVESP** e concluindo o **Técnico em Informática pelo Senac São Paulo**.
 
 Tenho interesse em desenvolvimento de software, principalmente nas áreas de **desenvolvimento web e mobile**.
 
@@ -35,6 +37,20 @@ Atualmente estudo e desenvolvo projetos utilizando **JavaScript, React.js, React
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=javascript,react,html,css,git,github" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 </div>
 
@@ -54,24 +70,55 @@ Atualmente estudo e desenvolvo projetos utilizando **JavaScript, React.js, React
 
 Coleção de scripts desenvolvidos durante meus estudos de **Linux e Bash**, praticando automação, gerenciamento de arquivos, processos, usuários e informações do sistema.
 
-🔗 [Ver projeto](https://github.com/anaesousa-dev/scripts-bash-linux)
+**Tecnologias:** Bash • Linux • Shell Script
+
+🔗 [Ver repositório](https://github.com/anaesousa-dev/scripts-bash-linux)
 
 ---
 
-### ⚛️ Próximos projetos
+### ⚛️ Projetos com React.js
+
+Projetos desenvolvidos durante meus estudos de desenvolvimento web, explorando componentes, interfaces e boas práticas com React.
+
+> 🚧 Em desenvolvimento
+
+---
+
+### 📱 Projetos com React Native
+
+Projetos voltados para desenvolvimento mobile e criação de interfaces para dispositivos móveis.
+
+> 🚧 Em desenvolvimento
+
+---
+
+### 🔌 Projetos com APIs REST
+
+Projetos para praticar integração entre aplicações e APIs utilizando JavaScript.
+
+> 🚧 Em desenvolvimento
+
+---
+
+## 🌱 Atualmente
+
+<div align="center">
 
 ```text
-💜 Projeto React.js .......... em desenvolvimento
-📱 Projeto React Native ...... planejado
-🔌 Projeto com API REST ...... planejado
-🌐 Projeto Web ............... planejado
-🌱 Atualmente
-> Estudando desenvolvimento de software
-> Construindo projetos para meu portfólio
-> Aprimorando JavaScript e React
-> Explorando desenvolvimento Web e Mobile
-> Buscando minha primeira oportunidade como Desenvolvedora Júnior
-<div align="center">
+💜 Estudando desenvolvimento de software
+✨ Construindo projetos para meu portfólio
+💻 Aprimorando JavaScript e React
+📱 Explorando desenvolvimento Web e Mobile
+🚀 Buscando minha primeira oportunidade como Desenvolvedora Júnior
+</div>
+📊 GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anaesousa-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaesousa-dev&layout=compact&theme=midnight-purple&hide_border=true" /> </div>
+📫 Vamos nos conectar?
+<div align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Ana%20Sousa-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /> </a> <a href="https://github.com/anaesousa-dev"> <img src="https://img.shields.io/badge/GitHub-anaesousa--dev-211936?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </div> <br> <div align="center">
 💜 Obrigada por visitar meu perfil!
 
 ✨ Sempre aprendendo. Sempre construindo. ✨
