@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%F0%9F%92%9C+ANA+SOUSA" alt="ANA SOUSA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Banner Ana Sousa" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Desenvolvedora+de+Software+em+forma%C3%A7%C3%A3o;JavaScript+%E2%80%A2+React.js+%E2%80%A2+React+Native;Web+%E2%80%A2+Mobile+%E2%80%A2+APIs+REST;Sempre+aprendendo.+Sempre+construindo.+%E2%9C%A8" alt="Typing SVG" />
+<h2>💜 Desenvolvedora de Software em formação</h2>
 
-<br><br>
+<p>
+✨ Web • Dispositivos Móveis • JavaScript • React
+</p>
+
+<br>
 
 <img src="https://img.shields.io/badge/💜%20STATUS-LEARNING%20%26%20BUILDING-8B5CF6?style=for-the-badge&labelColor=211936" />
 <img src="https://img.shields.io/badge/✨%20FOCUS-WEB%20%26%20MOBILE-A78BFA?style=for-the-badge&labelColor=211936" />
