@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=60&descSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Banner Ana Sousa" />
+<h1 align="center">💜 ANA SOUSA</h1>
 
-<br>
+<p align="center">
+  <strong>Software Developer em formação</strong>
+</p>
 
-<h2>💜 Software Developer em formação</h2>
-
-<p>
-  JavaScript • React.js • React Native • HTML • CSS • APIs REST
+<p align="center">
+  ✨ Web &nbsp;•&nbsp; Mobile &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; React
 </p>
 
 <br>
