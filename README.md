@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D4AFF,50:9B7EDE,100:D8B4FE&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontAlignY=38&desc=%5B%20SOFTWARE%20DEVELOPER%20//%20WEB%20%26%20MOBILE%20%5D&descAlignY=58&descFontSize=15&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Header Banner" />
-
+<img src="./banner-ana-sousa.svg" width="100%" alt="Banner Ana Sousa" />
 <!-- ANIMAÇÃO DE TEXTO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%3E_INICIANDO_PORTFOLIO...;%3E_SOFTWARE_DEVELOPER;%3E_TI_UNDERGRADUATE_%40_UNIVESP;%3E_WEB_%26_MOBILE_DEVELOPER;%3E_SEMPRE_APRENDENDO_%E2%9C%A8" alt="Typing SVG" />
