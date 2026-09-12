@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1 align="center">💜 ANA SOUSA</h1>
+<h1>💜 ANA SOUSA</h1>
 
-<p align="center">
-  <strong>Software Developer em formação</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software+em+forma%C3%A7%C3%A3o;JavaScript+%E2%80%A2+React.js+%E2%80%A2+React+Native;Web+%E2%80%A2+Mobile+%E2%80%A2+APIs+REST;Sempre+aprendendo+%E2%9C%A8" alt="Typing SVG" />
 
-<p align="center">
-  ✨ Web &nbsp;•&nbsp; Mobile &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; React
+<br>
+
+<p>
+✨ Web • Dispositivos Móveis • JavaScript • React
 </p>
 
 <br>
