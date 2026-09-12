@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Banner Ana Sousa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D5FF&height=220&section=header&text=ANA%20SOUSA&fontSize=42&fontColor=6D4C8D&animation=fadeIn" width="100%" alt="Banner Ana Sousa" />
 
 <br>
 
-<h2>💜 Desenvolvedora de Software em formação</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1500&color=8B6FAE&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Web;%F0%9F%93%B1+Dispositivos+M%C3%B3veis;%F0%9F%92%9C+JavaScript;%E2%9A%9B%EF%B8%8F+React;%F0%9F%8C%B7+Sempre+aprendendo" alt="Tecnologias" />
 
-<p>
-✨ Web • Dispositivos Móveis • JavaScript • React
-</p>
+<br><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/💜%20STATUS-LEARNING%20%26%20BUILDING-8B5CF6?style=for-the-badge&labelColor=211936" />
-<img src="https://img.shields.io/badge/✨%20FOCUS-WEB%20%26%20MOBILE-A78BFA?style=for-the-badge&labelColor=211936" />
-<img src="https://img.shields.io/badge/💻%20JAVASCRIPT-REACT-C4B5FD?style=for-the-badge&labelColor=211936" />
+<img src="https://img.shields.io/badge/💜%20STATUS-LEARNING%20%26%20BUILDING-C4B5FD?style=for-the-badge&labelColor=F5F0FA" />
+<img src="https://img.shields.io/badge/✨%20FOCUS-WEB%20%26%20MOBILE-D8B4FE?style=for-the-badge&labelColor=F5F0FA" />
+<img src="https://img.shields.io/badge/💻%20JAVASCRIPT-REACT-E9D5FF?style=for-the-badge&labelColor=F5F0FA" />
 
 </div>
 
