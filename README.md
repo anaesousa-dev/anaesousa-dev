@@ -98,7 +98,7 @@ Projetos para praticar integração entre aplicações e APIs utilizando JavaScr
 > 🚧 Em desenvolvimento
 
 ---
-
+```markdown
 ## 🌱 Atualmente
 
 <div align="center">
