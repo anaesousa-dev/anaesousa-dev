@@ -98,7 +98,8 @@ Projetos para praticar integração entre aplicações e APIs utilizando JavaScr
 > 🚧 Em desenvolvimento
 
 ---
-```markdown
+
+
 ## 🌱 Atualmente
 
 <div align="center">
@@ -109,17 +110,3 @@ Projetos para praticar integração entre aplicações e APIs utilizando JavaScr
 💻 Aprimorando JavaScript e React
 📱 Explorando desenvolvimento Web e Mobile
 🚀 Buscando minha primeira oportunidade como Desenvolvedora Júnior
-</div>
-📊 GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anaesousa-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaesousa-dev&layout=compact&theme=midnight-purple&hide_border=true" /> </div>
-📫 Vamos nos conectar?
-<div align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Ana%20Sousa-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /> </a> <a href="https://github.com/anaesousa-dev"> <img src="https://img.shields.io/badge/GitHub-anaesousa--dev-211936?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </div> <br> <div align="center">
-💜 Obrigada por visitar meu perfil!
-
-✨ Sempre aprendendo. Sempre construindo. ✨
-
-<br> <img src="https://komarev.com/ghpvc/?username=anaesousa-dev&color=8B5CF6&style=for-the-badge&label=VISITAS+AO+PERFIL" /> </div> ```
