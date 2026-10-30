@@ -19,41 +19,14 @@
 
 ---
 
-## 💜 Sobre mim
+## Sobre mim
 
-Sou **Desenvolvedora de Software em formação**, graduanda em **Tecnologia da Informação pela UNIVESP** e concluindo o **Técnico em Informática pelo Senac São Paulo**.
+Sou graduanda em Tecnologia da Informação pela UNIVESP e concluí o Técnico em Informática no Senac São Paulo.
+Estou buscando uma oportunidade de **estágio em TI** para crescer na área, com interesse em suporte, Linux e desenvolvimento.
 
-Tenho interesse em desenvolvimento de software, principalmente nas áreas de **desenvolvimento web e mobile**.
-
-Atualmente estudo e desenvolvo projetos utilizando **JavaScript, React.js, React Native, HTML, CSS, APIs REST e Git/GitHub**.
-
-🌷 Estou construindo meu portfólio por meio de projetos práticos e buscando uma oportunidade como **Desenvolvedora de Software Júnior**.
 
 ---
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,react,html,css,git,github" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-
-</div>
-
----
 
 ## 🎓 Formação
 
@@ -75,38 +48,6 @@ Coleção de scripts desenvolvidos durante meus estudos de **Linux e Bash**, pra
 
 ---
 
-### ⚛️ Projetos com React.js
-
-Projetos desenvolvidos durante meus estudos de desenvolvimento web, explorando componentes, interfaces e boas práticas com React.
-
-> 🚧 Em desenvolvimento
-
----
-
-### 📱 Projetos com React Native
-
-Projetos voltados para desenvolvimento mobile e criação de interfaces para dispositivos móveis.
-
-> 🚧 Em desenvolvimento
-
----
-
-### 🔌 Projetos com APIs REST
-
-Projetos para praticar integração entre aplicações e APIs utilizando JavaScript.
-
-> 🚧 Em desenvolvimento
-
----
-
-
-## 🌱 Atualmente
-
-<div align="center">
-
-```text
-💜 Estudando desenvolvimento de software
-✨ Construindo projetos para meu portfólio
-💻 Aprimorando JavaScript e React
-📱 Explorando desenvolvimento Web e Mobile
-🚀 Buscando minha primeira oportunidade como Desenvolvedora Júnior
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/ana-esousa
+- E-mail: anaesousa16@gmail.com
